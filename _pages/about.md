@@ -27,7 +27,7 @@ My research interest includes robust and optimal control, networked feedback con
 % - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus % sit amet. 
 % - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus 
 
-# Professional Experience
+# Experience
 - *2024.07 - 2024.09*, Postdoctoral Fellow, Demartment of Mechnical Engineering, University of Victoria, Canada
 (Supervisor : Yang Shi)
 - *2021.09 - 2024.07*, Postdoctoral Fellow, Department of Electrical and Computer Engineering, University of Windsor, Canada
